@@ -1,3 +1,7 @@
 ceci est un projet test GIT
 
+<<<<<<< HEAD
 Modif pour conflit FPE
+=======
+fabien est passé par la
+>>>>>>> da52b7baa24a1a08afb51e2304433b706bfbcb45
